@@ -12,7 +12,10 @@ Twitter https://twitter.com/zachgibbens
 Reddit https://reddit.com/u/zachgibbens  
 Tiktok https://www.tiktok.com/@zachgibbens  
 Twitch https://twitch.tv/zachgibbens  
-GitHub GitLab BitBucket Launchpad  
+GitHub https://github.com/zachgibbens  
+GitLab https://gitlab.com/zachgibbens  
+BitBucket https://bitbicket.org/zachgibbens  
+Launchpad  
 <!-- YouTube  
 IRC  
 XMPP  
