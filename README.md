@@ -14,8 +14,8 @@ Tiktok https://www.tiktok.com/@zachgibbens
 Twitch https://twitch.tv/zachgibbens  
 GitHub https://github.com/zachgibbens  
 GitLab https://gitlab.com/zachgibbens  
-BitBucket https://bitbicket.org/zachgibbens  
-Launchpad  
+BitBucket https://bitbucket.org/zachgibbens  
+Launchpad https://launchpad.net/~zachgibbens  
 <!-- YouTube  
 IRC  
 XMPP  
