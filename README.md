@@ -7,7 +7,9 @@ Blog https://zach.gibbens.dev/
 Matrix @Zach:gibbens.dev  
 Mastodon @zach@gibbens.dev  
 Facebook https://facebook.com/zachgibbens  
-Instagram Twitter Reddit Tiktok YouTube Twitch  
+Instagram https://instagram.com/zach.gibbens  
+Twitter https://twitter.com/zachgibbens  
+Reddit Tiktok YouTube Twitch  
 Pixelfed Ownstream  
 GitHub GitLab BitBucket Launchpad  
 IRC  
