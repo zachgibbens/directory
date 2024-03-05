@@ -9,7 +9,8 @@ Mastodon @zach@gibbens.dev
 Facebook https://facebook.com/zachgibbens  
 Instagram https://instagram.com/zach.gibbens  
 Twitter https://twitter.com/zachgibbens  
-Reddit Tiktok YouTube Twitch  
+Reddit https://reddit.com/u/zachgibbens  
+Tiktok YouTube Twitch  
 Pixelfed Ownstream  
 GitHub GitLab BitBucket Launchpad  
 IRC  
