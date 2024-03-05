@@ -11,7 +11,8 @@ Instagram https://instagram.com/zach.gibbens
 Twitter https://twitter.com/zachgibbens  
 Reddit https://reddit.com/u/zachgibbens  
 Tiktok https://www.tiktok.com/@zachgibbens  
-YouTube Twitch  
+YouTube  
+Twitch https://twitch.tv/zachgibbens  
 Pixelfed Ownstream  
 GitHub GitLab BitBucket Launchpad  
 IRC  
