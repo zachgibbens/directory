@@ -16,4 +16,4 @@ GitHub https://github.com/zachgibbens
 GitLab https://gitlab.com/zachgibbens  
 BitBucket https://bitbucket.org/zachgibbens  
 Launchpad https://launchpad.net/~zachgibbens  
-YouTube http://www.youtube.com/@zachgibbensdev912  
+YouTube https://www.youtube.com/@zachgibbensdev912  
